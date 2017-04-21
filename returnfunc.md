@@ -1,8 +1,6 @@
 ### 返回一个函数对象
 
-
-
-```python
+```py
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
@@ -22,7 +20,6 @@ def calc_prod(lst=None):
 if __name__ == '__main__':
     f = calc_prod(xrange(1, 5))
     print(f())
-
 ```
 
 
