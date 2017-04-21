@@ -1,8 +1,6 @@
 ### python内置的调出函数 map/reduce/filter用法
 
-
-
-```python
+```py
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
@@ -34,7 +32,6 @@ if __name__ == '__main__':
     # [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
     #
     print(filter(lambda x: math.sqrt(x).is_integer(), xrange(1, 101)))
-
 ```
 
 
