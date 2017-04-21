@@ -1,23 +1,14 @@
-# \#\# 高阶函数，将函数作为参数
-
-```python
-# -*- coding: utf-8 -*-
-
-from __future__ import unicode_literals
-
-"""
-    高阶函数，将函数作为参数
-"""
+# 第一单  python中的函数
 
 
-def add(x, y, f):
-    return f(x) + f(y)
 
 
-if __name__ == '__main__':
-    print(add(-9, 10, abs))
 
-```
+## 函数定义及函数参数
+
+
+
+## 
 
 
 
