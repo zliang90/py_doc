@@ -1,10 +1,8 @@
-```
-高阶函数，将函数作为参数
-```
+### 高阶函数：将函数作为另一个函数的参数
 
 
 
-```python
+```py
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
@@ -20,7 +18,6 @@ def add(x, y, f):
 
 if __name__ == '__main__':
     print(add(-9, 10, abs))
-
 ```
 
 
