@@ -1,3 +1,23 @@
-# My Awesome Book
+# \#\# 高阶函数，将函数作为参数
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+```python
+# -*- coding: utf-8 -*-
+
+from __future__ import unicode_literals
+
+"""
+    高阶函数，将函数作为参数
+"""
+
+
+def add(x, y, f):
+    return f(x) + f(y)
+
+
+if __name__ == '__main__':
+    print(add(-9, 10, abs))
+
+```
+
+
+
