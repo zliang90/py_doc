@@ -1,6 +1,6 @@
 # Summary
 
 * [functions](README.md)
-  * parm
+  * [function\_for\_parm](parm.md)
 * [First Chapter](chapter1.md)
 
