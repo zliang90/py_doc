@@ -1,4 +1,6 @@
-### python内置的调出函数 map/reduce/filter用法
+# python内置的调出函数 map/reduce/filter用法
+
+---
 
 ```py
 # -*- coding: utf-8 -*-
